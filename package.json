@@ -73,7 +73,7 @@
   "dependencies": {
     "diff": "^4.0.1",
     "lodash": "^4.17.11",
-    "requireg": "^0.2.1",
+    "requireg": "^0.2.2",
     "semver": "^6.0.0"
   },
   "engines": {
